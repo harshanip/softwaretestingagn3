@@ -1,0 +1,9 @@
+H:\DLListApplication\DoublyLinkedList\.vs\DoublyLinkedList\lut\0\b\DLLLibrary\Debug\netstandard2.0\DLLLibrary.deps.json
+H:\DLListApplication\DoublyLinkedList\.vs\DoublyLinkedList\lut\0\b\DLLLibrary\Debug\netstandard2.0\DLLLibrary.dll
+H:\DLListApplication\DoublyLinkedList\.vs\DoublyLinkedList\lut\0\b\DLLLibrary\Debug\netstandard2.0\DLLLibrary.pdb
+H:\DLListApplication\DoublyLinkedList\.vs\DoublyLinkedList\lut\0\i\DLLLibrary\Debug\netstandard2.0\DLLLibrary.csprojResolveAssemblyReference.cache
+H:\DLListApplication\DoublyLinkedList\.vs\DoublyLinkedList\lut\0\i\DLLLibrary\Debug\netstandard2.0\DLLLibrary.csproj.CoreCompileInputs.cache
+H:\DLListApplication\DoublyLinkedList\.vs\DoublyLinkedList\lut\0\i\DLLLibrary\Debug\netstandard2.0\DLLLibrary.AssemblyInfoInputs.cache
+H:\DLListApplication\DoublyLinkedList\.vs\DoublyLinkedList\lut\0\i\DLLLibrary\Debug\netstandard2.0\DLLLibrary.AssemblyInfo.cs
+H:\DLListApplication\DoublyLinkedList\.vs\DoublyLinkedList\lut\0\i\DLLLibrary\Debug\netstandard2.0\DLLLibrary.dll
+H:\DLListApplication\DoublyLinkedList\.vs\DoublyLinkedList\lut\0\i\DLLLibrary\Debug\netstandard2.0\DLLLibrary.pdb

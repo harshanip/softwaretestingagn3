@@ -1,0 +1,9 @@
+D:\AGN3_Testing\DoublyLinkedList_VS\DLListApplication\DoublyLinkedList\DLLLibrary\bin\Release\netstandard2.0\DLLLibrary.deps.json
+D:\AGN3_Testing\DoublyLinkedList_VS\DLListApplication\DoublyLinkedList\DLLLibrary\bin\Release\netstandard2.0\DLLLibrary.dll
+D:\AGN3_Testing\DoublyLinkedList_VS\DLListApplication\DoublyLinkedList\DLLLibrary\bin\Release\netstandard2.0\DLLLibrary.pdb
+D:\AGN3_Testing\DoublyLinkedList_VS\DLListApplication\DoublyLinkedList\DLLLibrary\obj\Release\netstandard2.0\DLLLibrary.csprojResolveAssemblyReference.cache
+D:\AGN3_Testing\DoublyLinkedList_VS\DLListApplication\DoublyLinkedList\DLLLibrary\obj\Release\netstandard2.0\DLLLibrary.csproj.CoreCompileInputs.cache
+D:\AGN3_Testing\DoublyLinkedList_VS\DLListApplication\DoublyLinkedList\DLLLibrary\obj\Release\netstandard2.0\DLLLibrary.AssemblyInfoInputs.cache
+D:\AGN3_Testing\DoublyLinkedList_VS\DLListApplication\DoublyLinkedList\DLLLibrary\obj\Release\netstandard2.0\DLLLibrary.AssemblyInfo.cs
+D:\AGN3_Testing\DoublyLinkedList_VS\DLListApplication\DoublyLinkedList\DLLLibrary\obj\Release\netstandard2.0\DLLLibrary.dll
+D:\AGN3_Testing\DoublyLinkedList_VS\DLListApplication\DoublyLinkedList\DLLLibrary\obj\Release\netstandard2.0\DLLLibrary.pdb

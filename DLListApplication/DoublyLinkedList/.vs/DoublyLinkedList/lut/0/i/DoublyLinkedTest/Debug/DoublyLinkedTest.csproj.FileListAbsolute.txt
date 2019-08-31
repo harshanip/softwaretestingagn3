@@ -1,0 +1,9 @@
+H:\DLListApplication\DoublyLinkedList\.vs\DoublyLinkedList\lut\0\b\DoublyLinkedTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+H:\DLListApplication\DoublyLinkedList\.vs\DoublyLinkedList\lut\0\b\DoublyLinkedTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+H:\DLListApplication\DoublyLinkedList\.vs\DoublyLinkedList\lut\0\b\DoublyLinkedTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+H:\DLListApplication\DoublyLinkedList\.vs\DoublyLinkedList\lut\0\b\DoublyLinkedTest\bin\Debug\DoublyLinkedTest.dll
+H:\DLListApplication\DoublyLinkedList\.vs\DoublyLinkedList\lut\0\b\DoublyLinkedTest\bin\Debug\DoublyLinkedTest.pdb
+H:\DLListApplication\DoublyLinkedList\.vs\DoublyLinkedList\lut\0\i\DoublyLinkedTest\Debug\DoublyLinkedTest.csprojResolveAssemblyReference.cache
+H:\DLListApplication\DoublyLinkedList\.vs\DoublyLinkedList\lut\0\i\DoublyLinkedTest\Debug\DoublyLinkedTest.csproj.CoreCompileInputs.cache
+H:\DLListApplication\DoublyLinkedList\.vs\DoublyLinkedList\lut\0\i\DoublyLinkedTest\Debug\DoublyLinkedTest.dll
+H:\DLListApplication\DoublyLinkedList\.vs\DoublyLinkedList\lut\0\i\DoublyLinkedTest\Debug\DoublyLinkedTest.pdb
